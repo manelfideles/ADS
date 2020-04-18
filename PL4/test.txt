@@ -1,0 +1,8 @@
+TEXTO
+timoteo
+garibaldo ruben garibaldo
+timoteo ruben
+FIM.
+LINHAS droga
+ASSOC ruben 2
+TCHAU
